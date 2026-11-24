@@ -55,6 +55,7 @@ nav a {
   padding: 10px 22px;
   margin: 8px;
   text-decoration: none;
+  border-radius: 25px;
 }
 
 section {
